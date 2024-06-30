@@ -4,7 +4,11 @@
 - Git: [amspsp](https://github.com/amspsp)
 ---
 ### About Me
-
++ My strengths:
+  + Learning agility
+  + Hardworking
+  + Success-oriented
+  + Intelligence
 ---
 ### Skills
 - HTML
@@ -13,6 +17,11 @@
 - Git
 ---
 ### Code Examples
+```
+function multiply(a, b){
+  return a * b
+}
+```
 ---
 ### Experience
 #### I have little experience in JS/FE and JS/BE development. I have worked in the small team on several projects.
